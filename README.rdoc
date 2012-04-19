@@ -1,0 +1,3 @@
+==ZombieiOSPort
+
+Porting a class project to the iPhone. Should be helpful to people who have worked on the project but want to see it translated to iOS.  The orinal zombie project has it's own repo on my account that you are welcome to look at aswell.  The original was a java app to add and manage Zombies!
